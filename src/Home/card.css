@@ -1,0 +1,38 @@
+.card {
+   border: 2px solid red;
+   background-color: whitesmoke;
+   margin-top: 25px;
+   height: 140px;
+   width: 150px;
+}
+
+.red {
+   
+   height: 60px;
+   background-color: red;
+}
+
+.name {
+   margin-top: 30px;
+   margin-left: 5px;
+}
+
+img {
+   height: auto;
+}
+
+.cardIcon {
+   height: 15px;
+   position: absolute;
+}
+
+.info {
+   margin-top: 5px;
+
+   padding-left: 5px;
+   
+}
+.cards {
+   display: flex;
+   flex-direction: column-reverse;
+}
